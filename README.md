@@ -1,7 +1,9 @@
 # kartaca_internship
 
 All of the requirements are checke and recorded. 
-The project is built on VM VirtualBox and tested. 
+The project is built on VM VirtualBox and tested.
+
+Please run following comment to get correct output. "curl -L kartaca.localhost/goapp"
 
 
 
